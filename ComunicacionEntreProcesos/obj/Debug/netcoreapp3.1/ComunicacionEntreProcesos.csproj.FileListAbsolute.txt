@@ -1,0 +1,13 @@
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.csprojAssemblyReference.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.csproj.CoreCompileInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.AssemblyInfoInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.AssemblyInfo.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.deps.json
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.runtimeconfig.json
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.runtimeconfig.dev.json
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\bin\Debug\netcoreapp3.1\ComunicacionEntreProcesos.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.dll
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\comunicacion-entre-procesos-2-gaby2327\ComunicacionEntreProcesos\obj\Debug\netcoreapp3.1\ComunicacionEntreProcesos.genruntimeconfig.cache
